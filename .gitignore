@@ -1,0 +1,9 @@
+.idea
+
+data/ijcai/cache
+
+data/taobao/cache
+
+data/beibei/cache
+
+logs/*
