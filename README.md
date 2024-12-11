@@ -5,7 +5,7 @@ This is the official SWGCN implementation for **SWGCN: Synergy Weighted Graph Co
 # Download
 
 ```shel
-git clone xxx
+git clone https://github.com/FangdChen/SWGCN.git
 cd SWGCN
 ```
 
